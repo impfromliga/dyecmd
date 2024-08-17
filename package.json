@@ -1,0 +1,14 @@
+{
+  "name": "nodeconsole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rend.js",
+  "scripts": {
+    "start": "node --experimental-modules dyecmd"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@andreekeberg/imagedata": "^1.0.2"
+  }
+}
